@@ -2393,6 +2393,10 @@ input, select, textarea {
 			width: 22.5rem;
 		}
 
+
+	.smaller-font {
+		font-size: 80%;
+	}
 		.panel .span-2-5 {
 			width: 25rem;
 		}
@@ -3665,8 +3669,4 @@ input, select, textarea {
 				transform: none;
 			}
 
-	}
-
-	.smaller-font {
-		font-size: 80%;
 	}
