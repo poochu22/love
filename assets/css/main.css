@@ -3666,3 +3666,7 @@ input, select, textarea {
 			}
 
 	}
+
+	.smaller-font {
+		font-size: 80%;
+	}
